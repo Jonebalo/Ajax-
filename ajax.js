@@ -79,4 +79,4 @@ function ListaEntradas(entradas){
         }
         listaDiv.innerHTML +=  "</ol>";
     }
-}; console.log(object);enrr
+}; 
